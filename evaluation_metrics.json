@@ -1,0 +1,6 @@
+{
+    "dataset_type": "synthetic demonstration data",
+    "test_accuracy": 0.8516666666666667,
+    "roc_auc": 0.5244882529192686,
+    "note": "Not representative of real-world detection performance."
+}
